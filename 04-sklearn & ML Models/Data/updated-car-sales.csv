@@ -1,0 +1,11 @@
+Make,Colour,Odometer (KM),Doors,Price,Seats,Fuel per 100KM,Used fuel(Liter),Road Safety
+toyota,White,150043,4,4000,5.0,9.8,14704.214000000002,True
+honda,Red,87899,4,5000,5.0,8.0,7031.92,True
+toyota,Blue,32549,3,7000,5.0,7.9,2571.371,True
+bmw,Black,11179,5,22000,5.0,10.0,1117.9,True
+nissan,White,213095,4,3500,5.0,9.9,21096.405,True
+toyota,Green,99213,4,4500,5.0,7.8,7738.614,True
+honda,Blue,45698,4,7500,5.0,9.8,4478.404,True
+honda,Blue,54738,4,7000,5.0,12.7,6951.726,True
+toyota,White,60000,4,6250,5.0,7.8,4680.0,True
+nissan,White,31600,4,9700,5.0,12.0,3792.0,True
